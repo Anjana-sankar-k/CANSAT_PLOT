@@ -4,7 +4,7 @@ This is a simulation-based project aimed at visualizing data from CanSat mission
 
 ## Live Demo
 
-You can view the project live here: [CanSat SEDS Live Demo](https://cansatseds.streamlit.app/)
+You can view the project live here: [Live Demo](https://cansatseds.streamlit.app/)
 
 ## Features
 
